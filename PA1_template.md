@@ -1,6 +1,6 @@
 # Reproducible Research: Peer Assessment 1
 
-## R Setup
+## R Setup for knitr
 
 ```r
 library(knitr)
